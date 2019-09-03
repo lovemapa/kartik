@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/canyou_admin/static/css/main.af66404f.chunk.css",
+    "main.js": "/canyou_admin/static/js/main.35e5f1a0.chunk.js",
+    "main.js.map": "/canyou_admin/static/js/main.35e5f1a0.chunk.js.map",
+    "runtime~main.js": "/canyou_admin/static/js/runtime~main.bc212ad4.js",
+    "runtime~main.js.map": "/canyou_admin/static/js/runtime~main.bc212ad4.js.map",
+    "static/css/2.165c6c9c.chunk.css": "/canyou_admin/static/css/2.165c6c9c.chunk.css",
+    "static/js/2.d3ae5640.chunk.js": "/canyou_admin/static/js/2.d3ae5640.chunk.js",
+    "static/js/2.d3ae5640.chunk.js.map": "/canyou_admin/static/js/2.d3ae5640.chunk.js.map",
+    "index.html": "/canyou_admin/index.html",
+    "precache-manifest.f60fe379eef0f4b6334c9ce13a221d39.js": "/canyou_admin/precache-manifest.f60fe379eef0f4b6334c9ce13a221d39.js",
+    "service-worker.js": "/canyou_admin/service-worker.js",
+    "static/css/2.165c6c9c.chunk.css.map": "/canyou_admin/static/css/2.165c6c9c.chunk.css.map",
+    "static/css/main.af66404f.chunk.css.map": "/canyou_admin/static/css/main.af66404f.chunk.css.map"
+  }
+}

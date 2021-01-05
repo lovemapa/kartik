@@ -7,7 +7,7 @@
     "@material-ui/icons": "^4.2.1",
     "@material-ui/lab": "^4.0.0-alpha.24",
     "@trendmicro/react-sidenav": "^0.4.5",
-    "axios": "^0.18.0",
+    "axios": "^0.21.1",
     "bootstrap": "^4.3.1",
     "chart.js": "^2.8.0",
     "google-distance-matrix": "^1.1.1",
